@@ -26,7 +26,6 @@ setuptools.setup(
     license='GPLv3',
     install_requires=[
         'appdirs',
-        'fusepy',
         'iso8601',
         'pycryptodome',
         'requests',
